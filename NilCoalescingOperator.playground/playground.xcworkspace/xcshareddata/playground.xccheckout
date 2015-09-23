@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A3396618-8E09-4FC9-AF48-2C66D672257D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08C31110096899980D55C6B5E0D223460BA4E5EC</key>
+		<string>https://github.com/Howlinmoon/Swift_Essential_Training.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NilCoalescingOperator.playground/playground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08C31110096899980D55C6B5E0D223460BA4E5EC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Howlinmoon/Swift_Essential_Training.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08C31110096899980D55C6B5E0D223460BA4E5EC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08C31110096899980D55C6B5E0D223460BA4E5EC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift_Essential_Training</string>
+		</dict>
+	</array>
+</dict>
+</plist>
